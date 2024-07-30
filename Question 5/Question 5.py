@@ -1,4 +1,5 @@
 # Sample data for a week
+
 weather_data = [
     {"date": "2024-07-22", "max_temp": 35, "min_temp": 25, "humidity": 80},
     {"date": "2024-07-23", "max_temp": 32, "min_temp": 24, "humidity": 70},
